@@ -1,0 +1,12 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.view-div {
+  height: 100%;
+  width: 100%;
+  background-color: #0cb8e7aa;
+}
